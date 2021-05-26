@@ -6,6 +6,7 @@ using namespace std;
 #define fake false
 #define best long long
 #define over endl
+#define haram push_back
 typedef vector<ll> gtodiayuh;
 #define based \
     int t;    \
